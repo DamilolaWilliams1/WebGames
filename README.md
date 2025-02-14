@@ -39,5 +39,3 @@ Implement betting mechanics to enhance realism.
 Add split and double down options for advanced gameplay.
 Improve animations and sound effects for a more immersive experience.
 
-[Download Demo Video](video.mp4)
-

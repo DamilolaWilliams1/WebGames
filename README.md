@@ -1,6 +1,6 @@
 Blackjack Game
 
-Overview
+Overview "\n"
 This project is a Blackjack game built using JavaFX. It simulates a real-world casino-style Blackjack experience, where a player competes against a dealer. The game follows standard Blackjack rules, including hitting, standing, and busting.
 
 Features

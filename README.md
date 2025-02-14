@@ -34,6 +34,8 @@ The dealer reveals their second card and plays according to the rules.
 The winner is determined based on the closest total to 21 without exceeding it.
 The game announces the winner and provides an option to restart.
 
+![Demo](demo.gif)
+
 Future Improvements
 Implement betting mechanics to enhance realism.
 Add split and double down options for advanced gameplay.
